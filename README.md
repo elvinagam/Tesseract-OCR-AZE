@@ -23,6 +23,7 @@ Tesseract 3 is enabled by using the Legacy OCR Engine mode (--oem 0).
 It also needs [traineddata](https://tesseract-ocr.github.io/tessdoc/Data-Files.html) files which support the legacy engine, for example
 those from the [tessdata](https://github.com/tesseract-ocr/tessdata) repository.
 
+Note: Even though tested on an actual Azerbaijani example, I got the Turkish auto detection. So, I also used TUR traindata from Tesseract.
 Tesseract has **unicode (UTF-8) support**, and can **recognize more than 100 languages** "out of the box".
 
 Tesseract supports **[various image formats](https://tesseract-ocr.github.io/tessdoc/InputFormats)** including PNG, JPEG and TIFF.
