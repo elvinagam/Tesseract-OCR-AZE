@@ -3,6 +3,8 @@
 [![GitHub license](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](https://raw.githubusercontent.com/tesseract-ocr/tesseract/main/LICENSE)
 [![Downloads](https://img.shields.io/badge/download-all%20releases-brightgreen.svg)](https://github.com/tesseract-ocr/tesseract/releases/)
 [![CodeFactor](https://www.codefactor.io/repository/github/elvinagam/tesseract-ocr-aze/badge)](https://www.codefactor.io/repository/github/elvinagam/tesseract-ocr-aze)
+
+
 Tesseract on few examples, such as template matching for different languages (AZE)
 
 Table of Contents
